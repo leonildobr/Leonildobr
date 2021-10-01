@@ -16,6 +16,4 @@ já que está nesse perfil, você pode deixar algumas sujestões para me ajudar 
 </div>
   
   ##
-<div>
  ![Snake animation](https://github.com/leonildobr/leonildobr/blob/output/github-contribution-grid-snake.svg)
-</div>
