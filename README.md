@@ -1,5 +1,5 @@
 ## Olá, meu nome é leonardo, (provavelmente você ja viu no meu perfil)
-estou começando minha carreira de programação agora, e quero crescer com ela,;
+estou começando minha carreira de programação agora, e quero crescer com ela, 
 já que está nesse perfil, você pode deixar algumas sujestões para me ajudar a aprimorar meus projetos, como estou começando, uma ajuda será muito bem-vinda
 
 <div align="center">
